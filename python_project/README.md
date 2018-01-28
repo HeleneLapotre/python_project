@@ -2,7 +2,7 @@
 
 Installation de Git/Github
 
-1. Via le terminal dans un dossier où il veut récupérer le repo (ex: Documents), taper git clone https://github.com/HeleneLapotre/python_project.git
+1. Via le terminal (iTerm) dans un dossier où il veut récupérer le repo (ex: Documents), taper git clone https://github.com/HeleneLapotre/python_project.git
 
 Pour Pusher 
 
