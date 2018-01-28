@@ -2,6 +2,8 @@
 
 ## Description
 
+Ce fichier est un markdown. Si besoin d'une mise en page particulière (gras, italique...), se référer à la doc sur markdown.
+
 ## Installation de Git/Github
 
 1. Via le terminal (iTerm) dans un dossier où il veut récupérer le repo (ex: Documents), taper git clone https://github.com/HeleneLapotre/python_project.git
