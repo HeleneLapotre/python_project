@@ -1,0 +1,9 @@
+Description des données :
+
+Ici, les données recueillies proviennent d'une expérience dans laquelle on présentait à des participants différents objets sur une table tactile, on a donc récupéré différents temps de réaction.Le sujet portait des lunettes qui lui obstruait la vue, qui s'ouvrait lorsque l'objet était placé. Il tenait appuyer un bouton d'une manette, qu'il devait relâcher quand ses lunettes s'ouvraient et aller récupérer l'objet. Les temps de réaction récoltés correspondent donc à l'intervalle de temps entre le moment où ses lunettes s'ouvrent et le moment où il relâche son bouton et l'intervalle entre le bouton relâché et le moment où il attrape l'objet.
+
+Les objets présentés avaient différents types d'ombre :
+- sans ombre ( = 0)
+- avec l'ombre normal de l'objet ( = 1)
+- avec l'ombre normal de l'objet mais inversé ( = 2)
+- avec l'ombre d'un autre objet ( = 3)
