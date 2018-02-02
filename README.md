@@ -14,10 +14,10 @@ Ce fichier est un markdown. Si besoin d'une mise en page particulière (gras, it
 
 
 ## Installation de Git/Github
-1. Via le terminal (iTerm) dans un dossier où il veut récupérer le repo (ex: Documents), taper git clone https://github.com/HeleneLapotre/python_project.git
+1. Via le terminal (iTerm) dans un dossier où il veut récupérer le repo (ex: Documents), taper git clone https://github.com/USER/python_project.git
 
 Pour Pusher 
-1. S’assurer que tu es située en local dans ton dossier python project (MacBook-Pro-de-Helene:python_project helene$) 
+1. S’assurer que tu es situé en local dans ton dossier python project (exemple : MacBook-Pro-de-Helene:python_project helene$) 
 2. Git Status = pour voir les fichiers que tu as modifié en local et qui ne sont pas présents sur Github
 3. Git add . = pour prendre tous les fichiers « en rouge » ou git add nom_du_fichier pour prendre qu’un seul fichier 
 4. Git commit -m « update Readme »
